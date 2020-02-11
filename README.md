@@ -4,6 +4,7 @@ Random shell scripts and other things I need to share.
 
 ## Development
 
+- [**dev**](dev/) - misc development scripts
 - [**tpl**](tpl/) - initialize projects (directories/files) based on templates
 
 ## Media
