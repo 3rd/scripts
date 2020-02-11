@@ -2,6 +2,10 @@
 
 Random shell scripts and other things I need to share.
 
+## Setup / maintainance
+
+- [**system**](system/) - system utilities
+
 ## Development
 
 - [**dev**](dev/) - misc development scripts
@@ -12,4 +16,4 @@ Random shell scripts and other things I need to share.
 - [**video**](video/) - video conversion, screen capture, etc
 
 ## Social
-- [**telegram/**](telegram/) - various scripts for Telegram
+- [**telegram**](telegram/) - various scripts for Telegram
