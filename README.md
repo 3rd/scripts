@@ -2,7 +2,7 @@
 
 Random shell scripts and other things I need to share.
 
-## Setup / maintainance
+## Setup / maintenance
 
 - [**system**](system/) - system utilities
 
