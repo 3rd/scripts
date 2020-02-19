@@ -2,8 +2,6 @@
 set -euf -o pipefail
 IFS=$'\n\t'
 
-source "${BASH_SOURCE%/*}/lib.sh"
-
 trim() {
   local var="$*"
   var="${var#"${var%%[![:space:]]*}"}"
